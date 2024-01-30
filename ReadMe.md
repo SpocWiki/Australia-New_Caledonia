@@ -107,8 +107,8 @@ id: New Caledonia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./New_Caledonia//
-markerFolder: ./New_Caledonia/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::New Caledonia] 
