@@ -71,7 +71,7 @@ Languages:
 
 Region_Name ::  [[Oceania]] 
 Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Melanesia]] 
+Sub-region_Name :: [[../Melanesia]]] 
 
 [	Region	 :: 9 ] 
 [	Intermediate_Region	 ::  ] 

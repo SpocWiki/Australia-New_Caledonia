@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::-22.27583] 
 [name::Nouméa] 
 State ::  
-Country :: [[New_Caledonia]]  
+Country ::[[../../../../../Oceania/Melanesia/New_Caledonia]]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 
