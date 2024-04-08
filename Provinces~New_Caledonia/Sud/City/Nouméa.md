@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::166.4581] 
-[geo-lat::-22.27583] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::166.4581] 
+[has_place_latitude::-22.27583] 
 [name::Nouméa] 
 State ::  
 Country ::[[../../../../../Oceania/Melanesia/New_Caledonia]]]  
