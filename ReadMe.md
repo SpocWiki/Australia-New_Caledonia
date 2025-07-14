@@ -129,15 +129,17 @@ Capital :: [[Nouméa]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Australia\New_CaledoniaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Australasia/New_Caledonia/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Australia\New_CaledoniaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Australasia/New_Caledonia/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Australia\New_CaledoniaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Australasia/New_Caledonia/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Australia\New_CaledoniaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Australasia/New_Caledonia/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Australia\New_CaledoniaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Australasia/New_Caledonia/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Australia\New_CaledoniaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Australasia/New_Caledonia/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Australasia/New_Caledonia/ReadMe.secret.md)
 

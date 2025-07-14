@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nouméa.public](/_public/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.public.md) 
+### [Nouméa](/_Standards/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.md) 
 
-### [Nouméa.internal](/_internal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.internal.md) 
+### [Nouméa.public](/_public/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.public.md) 
 
-### [Nouméa.protect](/_protect/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.protect.md) 
+### [Nouméa.internal](/_internal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.internal.md) 
 
-### [Nouméa.private](/_private/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.private.md) 
+### [Nouméa.protect](/_protect/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.protect.md) 
 
-### [Nouméa.personal](/_personal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.personal.md) 
+### [Nouméa.private](/_private/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.private.md) 
 
-### [Nouméa.secret](/_secret/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.secret.md)
+### [Nouméa.personal](/_personal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.personal.md) 
+
+### [Nouméa.secret](/_secret/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.secret.md)
 

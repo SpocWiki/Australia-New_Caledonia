@@ -41,15 +41,17 @@ markerFolder: ./Nord/
 
 ## Confidential Links & Embeds: 
 
-### [Nord.public](/_public/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.public.md) 
+### [Nord](/_Standards/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Nord.md) 
 
-### [Nord.internal](/_internal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.internal.md) 
+### [Nord.public](/_public/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Nord.public.md) 
 
-### [Nord.protect](/_protect/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.protect.md) 
+### [Nord.internal](/_internal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Nord.internal.md) 
 
-### [Nord.private](/_private/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.private.md) 
+### [Nord.protect](/_protect/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Nord.protect.md) 
 
-### [Nord.personal](/_personal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.personal.md) 
+### [Nord.private](/_private/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Nord.private.md) 
 
-### [Nord.secret](/_secret/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.secret.md)
+### [Nord.personal](/_personal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Nord.personal.md) 
+
+### [Nord.secret](/_secret/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Nord.secret.md)
 

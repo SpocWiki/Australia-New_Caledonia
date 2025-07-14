@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Australia\New_CaledoniaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Australasia/New_Caledonia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Australia\New_CaledoniaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Australasia/New_Caledonia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Australia\New_CaledoniaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Australasia/New_Caledonia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Australia\New_CaledoniaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Australasia/New_Caledonia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Australia\New_CaledoniaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Australasia/New_Caledonia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Australia\New_CaledoniaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Australasia/New_Caledonia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Australasia/New_Caledonia/License.secret.md)
 

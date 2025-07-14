@@ -41,15 +41,17 @@ markerFolder: ./Îles_Loyauté/
 
 ## Confidential Links & Embeds: 
 
-### [Îles_Loyauté.public](/_public/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaÎles_Loyauté.public.md) 
+### [Îles_Loyauté](/_Standards/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Îles_Loyauté.md) 
 
-### [Îles_Loyauté.internal](/_internal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaÎles_Loyauté.internal.md) 
+### [Îles_Loyauté.public](/_public/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Îles_Loyauté.public.md) 
 
-### [Îles_Loyauté.protect](/_protect/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaÎles_Loyauté.protect.md) 
+### [Îles_Loyauté.internal](/_internal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Îles_Loyauté.internal.md) 
 
-### [Îles_Loyauté.private](/_private/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaÎles_Loyauté.private.md) 
+### [Îles_Loyauté.protect](/_protect/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Îles_Loyauté.protect.md) 
 
-### [Îles_Loyauté.personal](/_personal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaÎles_Loyauté.personal.md) 
+### [Îles_Loyauté.private](/_private/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Îles_Loyauté.private.md) 
 
-### [Îles_Loyauté.secret](/_secret/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaÎles_Loyauté.secret.md)
+### [Îles_Loyauté.personal](/_personal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Îles_Loyauté.personal.md) 
+
+### [Îles_Loyauté.secret](/_secret/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Îles_Loyauté.secret.md)
 
