@@ -39,11 +39,16 @@ markerFolder: ./Sud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Caledonia/Counties/Sud|Sud]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Caledonia/Counties/Sud.public|Sud.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Caledonia/Counties/Sud.internal|Sud.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Caledonia/Counties/Sud.protect|Sud.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Caledonia/Counties/Sud.private|Sud.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Caledonia/Counties/Sud.personal|Sud.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Caledonia/Counties/Sud.secret|Sud.secret]] 
+
+### [Sud.public](/_public/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaSud.public.md) 
+
+### [Sud.internal](/_internal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaSud.internal.md) 
+
+### [Sud.protect](/_protect/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaSud.protect.md) 
+
+### [Sud.private](/_private/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaSud.private.md) 
+
+### [Sud.personal](/_personal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaSud.personal.md) 
+
+### [Sud.secret](/_secret/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaSud.secret.md)
 

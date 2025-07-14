@@ -40,11 +40,16 @@ markerFolder: ./Nord/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Caledonia/Counties/Nord|Nord]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Caledonia/Counties/Nord.public|Nord.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Caledonia/Counties/Nord.internal|Nord.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Caledonia/Counties/Nord.protect|Nord.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Caledonia/Counties/Nord.private|Nord.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Caledonia/Counties/Nord.personal|Nord.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Caledonia/Counties/Nord.secret|Nord.secret]] 
+
+### [Nord.public](/_public/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.public.md) 
+
+### [Nord.internal](/_internal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.internal.md) 
+
+### [Nord.protect](/_protect/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.protect.md) 
+
+### [Nord.private](/_private/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.private.md) 
+
+### [Nord.personal](/_personal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.personal.md) 
+
+### [Nord.secret](/_secret/\Earth\Continent\Australia\New_Caledonia\Provinces~New_CaledoniaNord.secret.md)
 

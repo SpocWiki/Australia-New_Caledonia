@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-22.27583,166.4581] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Australia/New_Caledonia/City/Nouméa|Nouméa]] 
-- [[../../../../../../_public/geo/Continent/Australia/New_Caledonia/City/Nouméa.public|Nouméa.public]] 
-- [[../../../../../../_internal/geo/Continent/Australia/New_Caledonia/City/Nouméa.internal|Nouméa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Australia/New_Caledonia/City/Nouméa.protect|Nouméa.protect]] 
-- [[../../../../../../_private/geo/Continent/Australia/New_Caledonia/City/Nouméa.private|Nouméa.private]] 
-- [[../../../../../../_personal/geo/Continent/Australia/New_Caledonia/City/Nouméa.personal|Nouméa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Australia/New_Caledonia/City/Nouméa.secret|Nouméa.secret]] 
+
+### [Nouméa.public](/_public/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.public.md) 
+
+### [Nouméa.internal](/_internal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.internal.md) 
+
+### [Nouméa.protect](/_protect/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.protect.md) 
+
+### [Nouméa.private](/_private/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.private.md) 
+
+### [Nouméa.personal](/_personal/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.personal.md) 
+
+### [Nouméa.secret](/_secret/\Earth\Continent\Australia\New_Caledonia\Provinces~New_Caledonia\Sud\CityNouméa.secret.md)
+

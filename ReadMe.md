@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -22.2758
 - 166.458
@@ -127,12 +127,17 @@ Capital :: [[Nouméa]]
 [has_place_latitude::-22.2758] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Australia/New_Caledonia|New_Caledonia]] 
-- [[../../../../_public/geo/Continent/Australia/New_Caledonia.public|New_Caledonia.public]] 
-- [[../../../../_internal/geo/Continent/Australia/New_Caledonia.internal|New_Caledonia.internal]] 
-- [[../../../../_protect/geo/Continent/Australia/New_Caledonia.protect|New_Caledonia.protect]] 
-- [[../../../../_private/geo/Continent/Australia/New_Caledonia.private|New_Caledonia.private]] 
-- [[../../../../_personal/geo/Continent/Australia/New_Caledonia.personal|New_Caledonia.personal]] 
-- [[../../../../_secret/geo/Continent/Australia/New_Caledonia.secret|New_Caledonia.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Australia\New_CaledoniaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Australia\New_CaledoniaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Australia\New_CaledoniaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Australia\New_CaledoniaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Australia\New_CaledoniaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Australia\New_CaledoniaReadMe.secret.md)
+
