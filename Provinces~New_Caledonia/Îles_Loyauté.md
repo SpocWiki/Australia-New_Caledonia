@@ -1,30 +1,29 @@
 ---
-location: [ -20.9 , 167.2 ] 
+location:
+  - -20.9
+  - 167.2
 type: geo-Region
 title: Îles_Loyauté
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Îles_Loyauté
-
+  - Îles_Loyauté
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Îles_Loyauté
