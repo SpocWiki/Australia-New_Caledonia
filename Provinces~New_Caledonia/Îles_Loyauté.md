@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Îles_Loyauté
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Îles_Loyauté/
 markerFolder: ./Îles_Loyauté/
