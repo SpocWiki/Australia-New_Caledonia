@@ -1,4 +1,13 @@
 ---
+aliases:
+  - New Caledonia
+  - Nueva Caledonia
+  - Nouvelle-Calédonie
+  - كاليدونيا الجديدة
+  - 新喀里多尼亚
+  - Новая Каледония
+  - ''
+  - ReadMe
 location:
   - -22.2758
   - 166.458
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: New Caledonia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - New Caledonia
-  - Nueva Caledonia
-  - Nouvelle-Calédonie
-  - كاليدونيا الجديدة
-  - 新喀里多尼亚
-  - Новая Каледония
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - fr-NC
 ---
