@@ -14,17 +14,23 @@ tags:
 SpocWebEntityId: 35972
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 166.4581
+dv_has_place_latitude: -22.27583
+dv_name: Nouméa
+dv_Country: "[[../../../../../Oceania/Melanesia/New_Caledonia]]]"
+dv_Unknown: 32
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::166.4581] 
-[has_place_latitude::-22.27583] 
-[name::Nouméa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country ::[[../../../../../Oceania/Melanesia/New_Caledonia]]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 
 ```leaflet
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nouméa](/_Standards/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa|Nouméa]] 
 
-### [Nouméa.public](/_public/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.public|Nouméa.public]] 
 
-### [Nouméa.internal](/_internal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.internal|Nouméa.internal]] 
 
-### [Nouméa.protect](/_protect/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.protect|Nouméa.protect]] 
 
-### [Nouméa.private](/_private/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.private|Nouméa.private]] 
 
-### [Nouméa.personal](/_personal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.personal|Nouméa.personal]] 
 
-### [Nouméa.secret](/_secret/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Caledonia/Provinces~New_Caledonia/Sud/City/Nouméa.secret|Nouméa.secret]] 
 
