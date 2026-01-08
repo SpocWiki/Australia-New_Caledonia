@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 166.4581
 dv_has_place_latitude: -22.27583
-dv_name: Nouméa
+dv_has_name_: Nouméa
 dv_Country: "[[../../../../../Oceania/Melanesia/New_Caledonia]]]"
 dv_Unknown: 32
 ---
